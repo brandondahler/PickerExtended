@@ -38,7 +38,7 @@ local function blacklist(entity)
         ['resource'] = true,
         ['car'] = true,
         ['construction-robot'] = true,
-        ['logisitic-rotbot'] = true,
+        ['logistic-robot'] = true,
         ['rocket'] = true
     }
     local names = {}
